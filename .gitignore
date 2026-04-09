@@ -1,0 +1,23 @@
+# Video outputs and large files
+outputs/
+*.mp4
+*.m4a
+*.zip
+*.info.json
+
+# Whisper outputs
+*.srt
+*.vtt
+*.tsv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# macOS
+.DS_Store
+
+# Memory (personal/private)
+memory/
